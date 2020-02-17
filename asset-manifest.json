@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lc-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/lc-app/static/js/main.a5494017.chunk.js",
+    "main.js.map": "/lc-app/static/js/main.a5494017.chunk.js.map",
+    "runtime-main.js": "/lc-app/static/js/runtime-main.8d2ca1b2.js",
+    "runtime-main.js.map": "/lc-app/static/js/runtime-main.8d2ca1b2.js.map",
+    "static/js/2.b66724d9.chunk.js": "/lc-app/static/js/2.b66724d9.chunk.js",
+    "static/js/2.b66724d9.chunk.js.map": "/lc-app/static/js/2.b66724d9.chunk.js.map",
+    "index.html": "/lc-app/index.html",
+    "precache-manifest.4e613d1fd3c8f6bed2732b6aff4b6ec3.js": "/lc-app/precache-manifest.4e613d1fd3c8f6bed2732b6aff4b6ec3.js",
+    "service-worker.js": "/lc-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/lc-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b66724d9.chunk.js.LICENSE.txt": "/lc-app/static/js/2.b66724d9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lc-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d2ca1b2.js",
+    "static/js/2.b66724d9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a5494017.chunk.js"
+  ]
+}
