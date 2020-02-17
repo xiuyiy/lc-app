@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lc-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/lc-app/static/js/main.a5494017.chunk.js",
-    "main.js.map": "/lc-app/static/js/main.a5494017.chunk.js.map",
+    "main.js": "/lc-app/static/js/main.fa78a37b.chunk.js",
+    "main.js.map": "/lc-app/static/js/main.fa78a37b.chunk.js.map",
     "runtime-main.js": "/lc-app/static/js/runtime-main.8d2ca1b2.js",
     "runtime-main.js.map": "/lc-app/static/js/runtime-main.8d2ca1b2.js.map",
     "static/js/2.b66724d9.chunk.js": "/lc-app/static/js/2.b66724d9.chunk.js",
     "static/js/2.b66724d9.chunk.js.map": "/lc-app/static/js/2.b66724d9.chunk.js.map",
     "index.html": "/lc-app/index.html",
-    "precache-manifest.4e613d1fd3c8f6bed2732b6aff4b6ec3.js": "/lc-app/precache-manifest.4e613d1fd3c8f6bed2732b6aff4b6ec3.js",
+    "precache-manifest.2095eafcdbccb822a1b049a2ef166ef0.js": "/lc-app/precache-manifest.2095eafcdbccb822a1b049a2ef166ef0.js",
     "service-worker.js": "/lc-app/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/lc-app/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.b66724d9.chunk.js.LICENSE.txt": "/lc-app/static/js/2.b66724d9.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8d2ca1b2.js",
     "static/js/2.b66724d9.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a5494017.chunk.js"
+    "static/js/main.fa78a37b.chunk.js"
   ]
 }
